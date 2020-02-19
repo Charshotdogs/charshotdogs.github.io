@@ -2,6 +2,7 @@ import React from 'react'
 import ToggleButton from './togglebutton/togglebutton.js'
 import Sidebar from "./sidebar/sidebar"
 import Backdrop from "./backdrop/backdrop"
+import hotdogImg from "../../img/hotdog.png"
 
 import './navbar.css'
 
@@ -24,7 +25,7 @@ class Navbar extends React.Component {
 
 		return (
 			<div id="nav">
-				<div id="navbrand"><a href="#landing">{this.props.navbrand}</a></div>
+				<a id="navbrand" href="#landing"><img src={hotdogImg} alt="Char's"/></a>
 				<div id="spacer"></div>
 				<div id="nav-items">
 

@@ -5,6 +5,7 @@ import Navbar from './components/navbar/navbar'
 
 import LandingPage from './pages/landing-page/landing-page'
 import AboutPage from './pages/about-page/about-page'
+import MenuPage from './pages/menu-page/menu-page'
 
 const sections = [
   {
@@ -12,8 +13,8 @@ const sections = [
     to: '#about'
   },
   {
-    name: 'Lorem',
-    to: ''
+    name: 'Menu',
+    to: '#menu'
   },
   {
     name: 'Ipsum',
@@ -32,6 +33,7 @@ function App() {
       <div id='body'>
         <LandingPage/>
         <AboutPage/>
+        <MenuPage/>
       </div>
     </>
   )

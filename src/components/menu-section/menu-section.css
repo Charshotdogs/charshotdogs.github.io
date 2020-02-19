@@ -1,0 +1,35 @@
+.menu-section {
+  display: flex;
+  flex-direction: column;
+  align-content: center;
+  align-items: center;
+}
+
+.menu-section-header {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  width: 100%;
+}
+
+.menu-section-title-subtitle {
+  margin: 0 auto 1%;
+}
+
+
+.menu-section-title {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.menu-section-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  max-width: 700px;
+}
+
+.menu-spacer {
+  flex-grow: 1;
+}

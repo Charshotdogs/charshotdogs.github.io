@@ -1,0 +1,66 @@
+.sliding-menu {
+  display: flex;
+  width: 100%;
+  height: auto;
+  flex-direction: column;
+}
+
+.menu-header {
+  position: relative;
+  height: 20%;
+  min-height: 1.625em;
+  width: 100%;
+}
+
+
+.menu-links {
+  position: relative;
+  display: flex;
+  height: auto;
+  flex-direction: row;
+  margin: auto;
+  width: 50%;
+}
+
+.menu-link {
+  font-size: 1.5em;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  height: 100%;
+  padding: 1%;
+}
+
+.menu-link:hover {
+  opacity: .5;
+  background-color: #cdcdcd;
+}
+
+.menu-bar {
+  background: #dedede;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+}
+
+.menu-bar {
+  width: 100%;
+  height: .125em;
+}
+
+.menu-selected {
+  margin: 0;
+  position: absolute;
+  background-color: #F87060;
+  transition: .3s ease-in-out;
+  height: .125em;
+  bottom: 0;
+  z-index: 100;
+}
+
+
+.menu-content {
+  width: 100%;
+  height: 80%;
+}
+

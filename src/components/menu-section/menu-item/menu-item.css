@@ -1,0 +1,19 @@
+.menu-item {
+  display: flex;
+  flex-direction: row;
+  align-content: flex-start;
+  width: 100%;
+}
+
+.name-desc {
+  text-align: left;
+  display: flex;
+  flex-direction: column;
+  max-width: 75%;
+}
+
+.item-name {
+  font-weight: bold;
+  font-size: 1.2em;
+}
+

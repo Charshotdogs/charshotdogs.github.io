@@ -1,0 +1,44 @@
+[
+  {
+    "category": "burger",
+    "name": "Hamburger",
+    "price": "7.00"
+  },
+  {
+    "category": "burger",
+    "name": "Buffalo Blue Cheeseburger",
+    "desc": "Grilled Onions, Grilled Jalapenos, Blue Cheese, Buffalo Sauce",
+    "price": "9.00"
+  },
+  {
+    "category": "hotdog",
+    "name": "Regular Dog",
+    "price": "4.75"
+  },
+  {
+    "category": "hotdog",
+    "name": "California Coney",
+    "desc": "Chili, Cheese, jalapenos, carrots, pickles",
+    "price": "5.75"
+  },
+  {
+    "category": "side",
+    "name": "Fries",
+    "price": "3.00/1.50"
+  },
+  {
+    "category": "side",
+    "name": "Jalapeño Poppers",
+    "price": "5.00/2.50"
+  },
+  {
+    "category": "drink",
+    "name": "Soda",
+    "price": "2.00"
+  },
+  {
+    "category": "drink",
+    "name": "Iced Tea",
+    "price": "2.00"
+  }
+]

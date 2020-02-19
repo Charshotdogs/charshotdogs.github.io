@@ -7,14 +7,26 @@
 }
 
 #landing-text {
-  font-size: 2em;
   margin: auto;
-  color: var(--gunmetal);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
   text-align: center;
+  background: var(--background-color);
+  border-radius: 5px;
+  border: solid var(--font-nav-active);
+  padding: 1%;
 }
 
+#landing-text > .vertical-text {
+  width: 50%;
+  font-size: 3em;
+}
+
+#landing-text > #announcements {
+  width: 50%;
+}
 #up-arrow {
-  background: var(--light);
   background: none;
   border-radius: 50% 50% 0 0;
   font-size: 3em;
@@ -27,5 +39,11 @@
   text-decoration: none;
   color: #2E4052;
   z-index: 100;
+  background: var(--background-color);
+}
+
+#logo {
+  height: 64px;
+  width: 64px;
 }
 
