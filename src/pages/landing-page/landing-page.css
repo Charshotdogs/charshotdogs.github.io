@@ -4,46 +4,27 @@
   display: flex;
   flex-direction: column;
   align-content: center;
-}
-
-#landing-text {
-  margin: auto;
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  text-align: center;
-  background: var(--background-color);
-  border-radius: 5px;
-  border: solid var(--font-nav-active);
-  padding: 1%;
-}
-
-#landing-text > .vertical-text {
-  width: 50%;
-  font-size: 3em;
-}
-
-#landing-text > #announcements {
-  width: 50%;
-}
-#up-arrow {
-  background: none;
-  border-radius: 50% 50% 0 0;
-  font-size: 3em;
-  width: 50px;
-  height: 45px;
-  margin-right: auto;
-  margin-left: auto;
-  text-align: center;
-  cursor: pointer;
-  text-decoration: none;
-  color: #2E4052;
-  z-index: 100;
   background: var(--background-color);
 }
 
-#logo {
-  height: 64px;
-  width: 64px;
+#landing-img-container {
+  width: 100%;
+  height: 60%;
+  overflow: hidden;
+  background-image: url("../../img/chars-counter.png");
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  background-size: cover;
+  position: relative;
 }
 
+#landing-img-overlay {
+  text-align: center;
+  font-size: 4em;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-shadow: 4px 4px black;
+}

@@ -16,7 +16,7 @@ const menuSections = [
 	},
 		{
 		name: 'Drinks/Sides',
-		content: <MenuSection title="Burgers" subtitle="Everything on it - Lettuce, Tomatoes, Onions, Mustard, Ketchup." halfPrice items={menuData}/>
+		content: <MenuSection title="Burgers" subtitle="" halfPrice items={menuData}/>
 	}
 ]
 

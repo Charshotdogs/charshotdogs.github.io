@@ -9,20 +9,20 @@ import MenuPage from './pages/menu-page/menu-page'
 
 const sections = [
   {
-    name: 'About',
-    to: '#about'
+    name: 'Menu',
+    to: 'menu'
   },
   {
-    name: 'Menu',
-    to: '#menu'
+    name: 'About',
+    to: 'about'
   },
   {
     name: 'Ipsum',
     to: ''
   },
   {
-    name: 'Dolor',
-    to: ''
+    name: 'CONTACT',
+    to: 'contact'
   }
 ]
 
@@ -32,8 +32,8 @@ function App() {
       <Navbar items={sections} navbrand="LOGO"/>
       <div id='body'>
         <LandingPage/>
-        <AboutPage/>
         <MenuPage/>
+        <AboutPage/>
       </div>
     </>
   )

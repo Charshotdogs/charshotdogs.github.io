@@ -1,0 +1,15 @@
+#landing-info {
+  display: flex;
+  flex-direction: row;
+  text-align: center;
+  margin: 0 auto;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  padding-top: 1%;
+  font-size: 1.25em;
+}
+
+.info-col {
+  width: 50%;
+  min-width: 350px;
+}

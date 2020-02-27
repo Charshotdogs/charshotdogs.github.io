@@ -29,8 +29,8 @@ class Navbar extends React.Component {
 				<div id="spacer"></div>
 				<div id="nav-items">
 
-					{this.props.items.map((item) => (<div className="nav-item" key={item.to}>
-							<a href={item.to}>{item.name}</a>
+					{this.props.items.map((item) => (<div className="nav-item" key={item.to} id={item.to}>
+							<a href={'#' + item.to}>{item.name}</a>
 						</div>))}
 
 				</div>

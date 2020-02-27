@@ -2,16 +2,13 @@ import React from 'react'
 import './landing-page.css'
 import VerticalText from '../../components/vertical-text/vertical-text'
 import LandingInfo from '../../components/landing-info/landing-info'
-import hotdogImg from '../../img/hotdog.png'
 
 const LandingPage = props => (
 		<div id="landing">
-
-			<div id="landing-text">
-				<VerticalText text={["Char's", "Hotdogs", <img id="logo" src={hotdogImg}/>]}/>
-				<LandingInfo/>
+			<div id="landing-img-container">
+				<div id="landing-img-overlay">Char's Hotdogs</div>
 			</div>
-			<a id="up-arrow" href="#about">⌃</a>
+			<LandingInfo/>
 		</div>
 )
 

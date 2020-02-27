@@ -11,9 +11,11 @@ const LandingInfo = props => {
 	let close = hoursData[today].close
 	return (
 		<div id="landing-info">
-			<Title>Announcements</Title>
-			<Announcements/>
-			<div id="todays-hours">
+			<div id="announce" class="info-col">
+				<Title>Announcements</Title>
+				<Announcements/>
+			</div>
+			<div id="todays-hours" class="info-col">
 				<Title>Today's Hours</Title>
 				<Hours open={open} close={close}/>
 			</div>
