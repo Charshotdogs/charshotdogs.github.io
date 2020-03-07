@@ -21,10 +21,16 @@
 #landing-img-overlay {
   text-align: center;
   font-size: 4em;
+  font-weight: bold;
   color: white;
   position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
   text-shadow: 4px 4px black;
+}
+
+#landing-info {
+  width: 70%;
+  margin: 0 auto;
 }

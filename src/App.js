@@ -9,21 +9,21 @@ import MenuPage from './pages/menu-page/menu-page'
 
 const sections = [
   {
-    name: 'Menu',
+    name: 'HOME',
+    to: 'landing'
+  },
+  {
+    name: 'MENU',
     to: 'menu'
   },
   {
-    name: 'About',
+    name: 'WHERE',
+    to: '#'
+  },
+  {
+    name: 'ABOUT',
     to: 'about'
   },
-  {
-    name: 'Ipsum',
-    to: ''
-  },
-  {
-    name: 'CONTACT',
-    to: 'contact'
-  }
 ]
 
 function App() {

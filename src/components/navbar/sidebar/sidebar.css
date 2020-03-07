@@ -6,7 +6,7 @@
   top: 0;
   right: 0;
   z-index: 3;
-  background-color: var(--nav-color);
+  background-color: #EFEFEF;
   transform: translateX(100%);
   -webkit-transition: transform 0.3s ease-out;
   -moz-transition: transform 0.3s ease-out;
@@ -29,8 +29,14 @@
 }
 
 .side-item > a {
+  font-size: 1.2em;
+  z-index: 200;
+  cursor: pointer;
+  width: 100%;
+  text-align: center;
+  margin-top: 1vh;
   text-decoration: none;
-  color: var(--font-nav);
+  color: black;
 }
 
 .side-item > a:hover {

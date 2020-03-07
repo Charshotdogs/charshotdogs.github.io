@@ -15,16 +15,5 @@
   border-bottom: 1px solid var(--background-color);
 }
 
-.side-item {
-  font-size: 1.2em;
-  z-index: 200;
-  cursor: pointer;
-  width: 100%;
-  text-align: center;
-  margin-top: 1vh;
-}
 
-.side-item > a {
-  text-decoration: none;
-  color: var(--background-color);
-}
+

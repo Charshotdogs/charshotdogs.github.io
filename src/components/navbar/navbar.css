@@ -42,6 +42,16 @@
   cursor: pointer;
 }
 
+.nav-item > a {
+  text-decoration: none;
+  color: var(--font-nav);
+  z-index: 100;
+}
+
+.nav-item > a:hover {
+  color: var(--font-nav-active);
+}
+
 #contact > a {
   border: 2px solid var(--font-nav);
   border-radius: 5px;
@@ -50,15 +60,6 @@
 
 #contact:hover > a {
   border-color: var(--font-nav-active);
-}
-
-.nav-item > a {
-  text-decoration: none;
-  color: var(--font-nav);
-}
-
-.nav-item > a:hover {
-  color: var(--font-nav-active);
 }
 
 @media (max-width: 678px) {
