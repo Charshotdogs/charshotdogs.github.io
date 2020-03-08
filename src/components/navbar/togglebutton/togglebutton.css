@@ -23,7 +23,7 @@
 }
 
 #toggle-button:hover .toggle-line {
-  background: var(--font-nav-active );
+  background: var(--background);
 }
 
 @media (min-width: 678px) {

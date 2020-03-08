@@ -10,7 +10,7 @@
   align-items: center;
   justify-content: flex-start;
 
-  background: var(--background-color);
+  background: var(--background);
 }
 
 .section-title {
@@ -22,7 +22,8 @@
 }
 
 .section-body {
-  width: 50%;
+  min-width: 50%;
+  max-width: 90%;
   padding-bottom: 8%;
   padding-top: 2%;
   margin: 0 auto;

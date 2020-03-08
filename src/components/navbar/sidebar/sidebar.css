@@ -40,5 +40,5 @@
 }
 
 .side-item > a:hover {
-  color: var(--font-nav-active);
+  color: var(--coral);
 }

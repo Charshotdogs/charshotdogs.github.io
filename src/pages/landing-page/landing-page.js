@@ -24,7 +24,9 @@ const LandingPage = props => (
 			<div id="landing-img-container">
 				<div id="landing-img-overlay">Char's Hotdogs</div>
 			</div>
-			<ColSection3 id="landing-info" sections={ColSections}/>
+			<div id="landing-body">
+				<ColSection3 id="landing-info" sections={ColSections}/>
+			</div>
 		</div>
 )
 

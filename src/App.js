@@ -30,6 +30,7 @@ function App() {
   return (
     <>
       <Navbar items={sections} navbrand="LOGO"/>
+      <div id="landing-background"></div>
       <div id='body'>
         <LandingPage/>
         <MenuPage/>

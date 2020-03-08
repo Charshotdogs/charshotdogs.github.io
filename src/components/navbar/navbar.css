@@ -7,7 +7,7 @@
   display: flex;
   align-items: center;
   z-index: 200;
-  background: var(--nav-color);
+  background: transparent;
 }
 
 #navbrand {
@@ -15,7 +15,7 @@
   cursor: pointer;
   text-decoration: none;
   margin-left: 1vw;
-  color: var(--font-nav);
+  color: var(--background);
 }
 
 #navbrand > img {
@@ -44,12 +44,13 @@
 
 .nav-item > a {
   text-decoration: none;
-  color: var(--font-nav);
+  color: var(--background);
   z-index: 100;
+  font-weight: bold;
 }
 
 .nav-item > a:hover {
-  color: var(--font-nav-active);
+  color: var(--coral);
 }
 
 #contact > a {
