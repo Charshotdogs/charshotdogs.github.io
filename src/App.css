@@ -5,6 +5,7 @@
   font-family: 'Open Sans', sans-serif;
   --coral: #F87060;
   --background: #FEFEFE;
+  --background-alt: #DDD;
   --text: #222222;
   height: 100%;
   width: 100%;
@@ -39,4 +40,12 @@
   position: fixed;
   top: 0;
   left: 0;
+}
+
+a {
+  color: var(--coral);
+}
+
+a:hover {
+  color: var(--text);
 }

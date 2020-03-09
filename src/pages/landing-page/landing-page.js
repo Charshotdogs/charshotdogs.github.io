@@ -3,6 +3,7 @@ import './landing-page.css'
 import ColSection3 from '../../components/col-3/col-3'
 import Announcements from '../../components/landing-info/announcements/announcements'
 import Hours from '../../components/landing-info/hours/hours'
+import Contact from '../../components/landing-info/contact/contact'
 
 const ColSections = [
 	{
@@ -15,7 +16,7 @@ const ColSections = [
 	},
 	{
 		name: "CONTACT",
-		body: <div></div>
+		body: <Contact/>
 	}
 ]
 

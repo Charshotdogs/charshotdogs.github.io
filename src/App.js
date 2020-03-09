@@ -6,6 +6,7 @@ import Navbar from './components/navbar/navbar'
 import LandingPage from './pages/landing-page/landing-page'
 import AboutPage from './pages/about-page/about-page'
 import MenuPage from './pages/menu-page/menu-page'
+import WherePage from './pages/where-page/where-page'
 
 const sections = [
   {
@@ -18,7 +19,7 @@ const sections = [
   },
   {
     name: 'WHERE',
-    to: '#'
+    to: 'where'
   },
   {
     name: 'ABOUT',
@@ -34,6 +35,7 @@ function App() {
       <div id='body'>
         <LandingPage/>
         <MenuPage/>
+        <WherePage/>
         <AboutPage/>
       </div>
     </>

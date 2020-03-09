@@ -1,0 +1,15 @@
+#map {
+  min-height: 60vh;
+  width: 100%;
+}
+
+#where > .section-body {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+}
+
+#where > .section-body > div {
+  padding: 1%;
+}

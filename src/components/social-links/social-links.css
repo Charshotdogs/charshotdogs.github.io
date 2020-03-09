@@ -1,0 +1,15 @@
+.links-bar {
+  width: 100%;
+  text-align: left;
+  height: 24px;
+}
+
+.link {
+  width: 24px;
+  height: 24px;
+}
+
+.link > img {
+  width: 24px;
+  height: 24px;
+}
