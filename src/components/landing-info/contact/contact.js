@@ -6,6 +6,10 @@ const Links = [
 	{
 		name: 'instagram',
 		link: 'https://www.instagram.com/hotdogsfromchars/'
+	},
+	{
+		name: 'yelp',
+		link: 'https://www.yelp.com/biz/chars-hot-dogs-benicia-4?osq=chars+hotdogs'
 	}
 ]
 

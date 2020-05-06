@@ -3,6 +3,11 @@
   flex-direction: row;
   align-content: flex-start;
   width: 100%;
+  border-top: 2px dotted var(--background-alt);
+}
+
+.menu-item:hover {
+  font-weight: bolder;
 }
 
 .name-desc {

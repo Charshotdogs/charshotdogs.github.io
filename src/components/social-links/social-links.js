@@ -1,9 +1,11 @@
 import React from 'react'
-import igIMG from '../../img/ig_icon.png'
+import igIMG from '../../img/ig_icon_color.png'
+import yelpIMG from '../../img/yelp_icon.png'
 import './social-links.css'
 
 const imageDict = {
-	instagram: igIMG
+	instagram: igIMG,
+	yelp: yelpIMG
 }
 
 const SocialLinks = props => (

@@ -65,3 +65,16 @@
   height: 80%;
 }
 
+.unrolled-title {
+  font-weight: bold;
+  font-size: 2em;
+}
+
+.unrolled-title:hover {
+  background: transparent;
+  cursor: auto;
+  color: var(--text);
+  opacity: 1;
+}
+
+
