@@ -40,6 +40,8 @@
   font-size: 1.2em;
   z-index: 200;
   cursor: pointer;
+  font-weight: bold;
+  text-shadow: 2px 2px black;
 }
 
 .nav-item > a {
@@ -51,16 +53,6 @@
 
 .nav-item > a:hover {
   color: var(--coral);
-}
-
-#contact > a {
-  border: 2px solid var(--font-nav);
-  border-radius: 5px;
-  padding: 3%;
-}
-
-#contact:hover > a {
-  border-color: var(--font-nav-active);
 }
 
 @media (max-width: 678px) {

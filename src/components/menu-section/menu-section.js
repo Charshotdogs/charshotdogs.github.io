@@ -13,10 +13,10 @@ const MenuSection = props => {
 		}
 
 		row1 = <div className="menu-col" style={colStyle}> {props.items.slice(0, colLength).map(item =>
-			<MenuItem name={item.name} price={item.price} desc={item.desc}/>)}</div>
+			<MenuItem key={item.name} name={item.name} price={item.price} desc={item.desc}/>)}</div>
 
 		row2 = <div className="menu-col" style={colStyle}> {props.items.slice(colLength, props.items.length).map(item =>
-			<MenuItem name={item.name} price={item.price} desc={item.desc}/>)}</div>
+			<MenuItem key={item.name} name={item.name} price={item.price} desc={item.desc}/>)}</div>
 	}
 	else {
 		row2 = ''

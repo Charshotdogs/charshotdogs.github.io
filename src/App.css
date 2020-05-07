@@ -30,17 +30,24 @@
 }
 
 #landing-background {
-  min-height: 60%;
-  max-height: 100%;
-  width: 100%;
-  background-image: url("./img/landing.JPG");
+  min-height: 100%;
+  min-width: 100%;
+  background-image: url("./img/landing.png");
   background-attachment: fixed;
+  background-position: center top;
   -webkit-background-size: cover;
   background-size: cover;
   z-index: -100;
   position: fixed;
   top: 0;
   left: 0;
+}
+
+@media (max-width: 678px) {
+  #landing-background {
+    height: 100%;
+    width: 100%;
+  }
 }
 
 a {

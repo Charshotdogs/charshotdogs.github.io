@@ -36,3 +36,10 @@
 }
 
 
+@media (max-width: 678px) {
+  .section-body {
+    width: 80%;
+  }
+
+}
+

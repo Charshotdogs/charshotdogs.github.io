@@ -36,7 +36,6 @@ export default class SlidingMenu extends React.Component {
 	}
 
 	render() {
-		console.log(this.props.items, this.state.curr)
 		if (this.state.width * .6 <= 14 * this.props.items.reduce((prev, curr) => prev + curr.name.length, 0))
 			return this._mobileView()
 
