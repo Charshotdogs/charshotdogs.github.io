@@ -5,11 +5,12 @@
 
 #where > .section-body {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-evenly;
   flex-wrap: wrap;
 }
 
 #where > .section-body > div {
   padding: 1%;
+  text-align: center;
 }

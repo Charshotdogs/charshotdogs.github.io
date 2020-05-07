@@ -18,11 +18,11 @@
   top: 0;
   width: 100%;
   margin-top: 5vh;
-  height: 95vh ;
+  height: 95vh;
   overflow-x: hidden;
   overflow-y: visible;
   scroll-behavior: smooth;
-
+  -webkit-overflow-scrolling: touch;
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -30,9 +30,10 @@
 }
 
 #landing-background {
-  height: 60%;
+  min-height: 60%;
+  max-height: 100%;
   width: 100%;
-  background-image: url("./img/chars-counter.png");
+  background-image: url("./img/landing.JPG");
   background-attachment: fixed;
   -webkit-background-size: cover;
   background-size: cover;

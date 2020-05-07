@@ -8,7 +8,7 @@
 
 #landing-img-container {
   width: 100%;
-  height: 55vh;
+  min-height: 55vh;
   overflow: hidden;
   position: relative;
   background: transparent;

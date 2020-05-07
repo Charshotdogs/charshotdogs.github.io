@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/chars-website/static/css/main.1b083825.chunk.css",
-    "main.js": "/chars-website/static/js/main.d929767f.chunk.js",
-    "main.js.map": "/chars-website/static/js/main.d929767f.chunk.js.map",
+    "main.css": "/chars-website/static/css/main.9d67cc53.chunk.css",
+    "main.js": "/chars-website/static/js/main.0d7fc4d7.chunk.js",
+    "main.js.map": "/chars-website/static/js/main.0d7fc4d7.chunk.js.map",
     "runtime-main.js": "/chars-website/static/js/runtime-main.9d8c050e.js",
     "runtime-main.js.map": "/chars-website/static/js/runtime-main.9d8c050e.js.map",
-    "static/js/2.6ef01a07.chunk.js": "/chars-website/static/js/2.6ef01a07.chunk.js",
-    "static/js/2.6ef01a07.chunk.js.map": "/chars-website/static/js/2.6ef01a07.chunk.js.map",
+    "static/js/2.b22b0195.chunk.js": "/chars-website/static/js/2.b22b0195.chunk.js",
+    "static/js/2.b22b0195.chunk.js.map": "/chars-website/static/js/2.b22b0195.chunk.js.map",
     "index.html": "/chars-website/index.html",
-    "precache-manifest.c5941d605ecdc115c9cd5c360b7a2802.js": "/chars-website/precache-manifest.c5941d605ecdc115c9cd5c360b7a2802.js",
+    "precache-manifest.eec3d25f7218b4e29d9d96ed38f6f6e6.js": "/chars-website/precache-manifest.eec3d25f7218b4e29d9d96ed38f6f6e6.js",
     "service-worker.js": "/chars-website/service-worker.js",
-    "static/css/main.1b083825.chunk.css.map": "/chars-website/static/css/main.1b083825.chunk.css.map",
-    "static/js/2.6ef01a07.chunk.js.LICENSE": "/chars-website/static/js/2.6ef01a07.chunk.js.LICENSE",
+    "static/css/main.9d67cc53.chunk.css.map": "/chars-website/static/css/main.9d67cc53.chunk.css.map",
+    "static/js/2.b22b0195.chunk.js.LICENSE": "/chars-website/static/js/2.b22b0195.chunk.js.LICENSE",
     "static/media/about.jpg": "/chars-website/static/media/about.50a1a5a9.jpg",
-    "static/media/App.css": "/chars-website/static/media/chars-counter.809b0ddb.png",
     "static/media/hotdog.png": "/chars-website/static/media/hotdog.c0b70043.png",
-    "static/media/ig_icon_color.png": "/chars-website/static/media/ig_icon_color.097b7749.png"
+    "static/media/ig_icon_color.png": "/chars-website/static/media/ig_icon_color.097b7749.png",
+    "static/media/App.css": "/chars-website/static/media/landing.4d3d4e7c.JPG"
   },
   "entrypoints": [
     "static/js/runtime-main.9d8c050e.js",
-    "static/js/2.6ef01a07.chunk.js",
-    "static/css/main.1b083825.chunk.css",
-    "static/js/main.d929767f.chunk.js"
+    "static/js/2.b22b0195.chunk.js",
+    "static/css/main.9d67cc53.chunk.css",
+    "static/js/main.0d7fc4d7.chunk.js"
   ]
 }
