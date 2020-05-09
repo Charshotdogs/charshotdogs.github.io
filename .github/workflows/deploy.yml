@@ -7,7 +7,7 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
-      - name: download gh-pages
-        run: npm install gh-pages
+      - name: install
+        run: npm install
       - name: deploy site updates
         run: npm run deploy
