@@ -3,8 +3,8 @@ import './hours.css'
 import hoursData from '../../../data/hours.json'
 
 const Hours = props =>  (
-	hoursData.map(item => (
-		<div className="hour">
+	hoursData.map((item, idx) => (
+		<div key={'hour' + idx} className="hour">
 			<div className="day">{item.day}:&nbsp;</div>
 			{ item.closed ? <div>Closed</div> :
 				<div>

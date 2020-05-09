@@ -36,7 +36,7 @@ const menuSections = [
 		content: <MenuSection title="Sides"
 													subtitle=""
 													halfPrice
-													items={menuData.filter(item => item.category == 'side')}
+													items={menuData.filter(item => item.category === 'side')}
 		/>
 	}
 ]

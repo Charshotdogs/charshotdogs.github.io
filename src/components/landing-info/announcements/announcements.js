@@ -5,8 +5,8 @@ import data from '../../../data/announcements.json'
 const Announcements = () => (
 	<ul id="announcements">
 			{
-				data.map(item => (
-					<li className="announcement-item">{item.content}</li>
+				data.map((item, idx) => (
+					<li key={'announcement' + idx} className="announcement-item">{item.content}</li>
 				))
 			}
 	</ul>

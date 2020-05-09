@@ -2,7 +2,6 @@ import React from 'react'
 import ToggleButton from './togglebutton/togglebutton.js'
 import Sidebar from "./sidebar/sidebar"
 import Backdrop from "./backdrop/backdrop"
-import hotdogImg from "../../img/hotdog.png"
 
 import './navbar.css'
 

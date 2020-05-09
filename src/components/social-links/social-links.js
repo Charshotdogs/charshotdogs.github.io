@@ -11,8 +11,8 @@ const imageDict = {
 const SocialLinks = props => (
 	<div className="links-bar">
 		{
-			props.items.map(item => (
-				<a href={item.link} className="link"><img alt={item.name} src={imageDict[String(item.name)]}/></a>
+			props.items.map((item, idx) => (
+				<a key={'link' + idx} href={item.link} className="link"><img alt={item.name} src={imageDict[String(item.name)]}/></a>
 			))
 		}
 	</div>

@@ -10,8 +10,8 @@ const MenuSection = props => {
 				<div className="menu-section-subtitle">{props.subtitle}</div>
 			</div>
 		</div>
-		<div className="menu-section-body">{props.items.map(item =>
-			<MenuItem name={item.name} price={item.price} desc={item.desc}/>)}
+		<div className="menu-section-body">{props.items.map((item, idx) =>
+			<MenuItem key={'item' + idx} name={item.name} price={item.price} desc={item.desc}/>)}
 		</div>
 	</div>
 )}
