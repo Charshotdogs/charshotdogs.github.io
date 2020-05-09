@@ -11,7 +11,7 @@ const menuSections = [
 		content: <MenuSection title="Hotdogs"
 													subtitle="Everything - mustard, relish, tomato, onion. Extras - jalapeños, ranch, or kraut for 35¢;
 													mushrooms or cheese for 50¢; bacon or fried egg for $1.00; avocado for $1.25."
-													items={menuData.filter(item => item.category == 'hotdog')}
+													items={menuData.filter(item => item.category === 'hotdog')}
 		/>
 	},
 	{
@@ -20,7 +20,7 @@ const menuSections = [
 													subtitle="Everything - lettuce, tomatoes, onions, mustard, ketchup. Turkey or garden
 													(veggie) patties available for 50¢. Beyond patty available for $1.00. Extras - jalapeños,
 													ranch, or kraut for 35¢ mushrooms or cheese for 50¢; bacon or fried egg for $1.00; avocado for $1.25."
-													items={menuData.filter(item => item.category == 'burger')}
+													items={menuData.filter(item => item.category === 'burger')}
 		/>
 	},
 	{
@@ -28,7 +28,7 @@ const menuSections = [
 		content: <MenuSection title="Sandwiches"
 													subtitle="Extras - jalapeños, ranch, or kraut for 35¢; mushrooms or cheese for 50¢; bacon or
 													fried egg for $1.00; avocado for $1.25."
-													items={menuData.filter(item => item.category == 'sandwich')}
+													items={menuData.filter(item => item.category === 'sandwich')}
 		/>
 	},
 	{

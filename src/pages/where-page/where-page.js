@@ -12,7 +12,7 @@ const WherePage = props => (
 			We are located at the old tannery building in Benicia.
 			<br/>
 			<br/>
-			<a href="https://www.google.com/maps/place/Char's+Hot+Dogs/@38.046162,-122.161675,15z/data=!4m5!3m4!1s0x0:0x149549adb869eb1e!8m2!3d38.0461618!4d-122.1616748?hl=en" target="_blank">131 First Street, Benicia CA</a>
+			<a rel="noopener" href="https://www.google.com/maps/place/Char's+Hot+Dogs/@38.046162,-122.161675,15z/data=!4m5!3m4!1s0x0:0x149549adb869eb1e!8m2!3d38.0461618!4d-122.1616748?hl=en" target="_blank">131 First Street, Benicia CA</a>
 			<br/>
 			<br/>
 			We can't wait to see you!

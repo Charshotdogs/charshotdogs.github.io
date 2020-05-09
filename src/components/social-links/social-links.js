@@ -12,7 +12,7 @@ const SocialLinks = props => (
 	<div className="links-bar">
 		{
 			props.items.map(item => (
-				<a href={item.link} className="link"><img src={imageDict[String(item.name)]}/></a>
+				<a href={item.link} className="link"><img alt={item.name} src={imageDict[String(item.name)]}/></a>
 			))
 		}
 	</div>
