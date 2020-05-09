@@ -7,6 +7,8 @@ jobs:
   deploy:
     runs-on: ubuntu-latest
     steps:
+      - name: set root dir
+        uses: ./
       - name: install
         run: npm install
       - name: deploy site updates
