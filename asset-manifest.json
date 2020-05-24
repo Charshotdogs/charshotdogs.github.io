@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.074be4aa.chunk.css",
-    "main.js": "/static/js/main.f4234aca.chunk.js",
-    "main.js.map": "/static/js/main.f4234aca.chunk.js.map",
+    "main.css": "/static/css/main.87149862.chunk.css",
+    "main.js": "/static/js/main.8936a7ce.chunk.js",
+    "main.js.map": "/static/js/main.8936a7ce.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f5ec108c.js",
     "runtime-main.js.map": "/static/js/runtime-main.f5ec108c.js.map",
     "static/js/2.3a329f3f.chunk.js": "/static/js/2.3a329f3f.chunk.js",
     "static/js/2.3a329f3f.chunk.js.map": "/static/js/2.3a329f3f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.e4bef3ea54086f993da74f3b142773d7.js": "/precache-manifest.e4bef3ea54086f993da74f3b142773d7.js",
+    "precache-manifest.f9c4333de8fd86da46234aec2d7f58ab.js": "/precache-manifest.f9c4333de8fd86da46234aec2d7f58ab.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.074be4aa.chunk.css.map": "/static/css/main.074be4aa.chunk.css.map",
+    "static/css/main.87149862.chunk.css.map": "/static/css/main.87149862.chunk.css.map",
     "static/js/2.3a329f3f.chunk.js.LICENSE.txt": "/static/js/2.3a329f3f.chunk.js.LICENSE.txt",
     "static/media/ig_icon_color.png": "/static/media/ig_icon_color.097b7749.png",
     "static/media/App.css": "/static/media/landing.2d2a31f8.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.f5ec108c.js",
     "static/js/2.3a329f3f.chunk.js",
-    "static/css/main.074be4aa.chunk.css",
-    "static/js/main.f4234aca.chunk.js"
+    "static/css/main.87149862.chunk.css",
+    "static/js/main.8936a7ce.chunk.js"
   ]
 }
