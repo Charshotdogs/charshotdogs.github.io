@@ -1,21 +1,11 @@
 [
   {
-    "day": "SUN",
+    "day": "TUES-SUN",
     "open": "11:00AM",
     "close": "7:00PM"
-  },
+  }
   {
     "day": "MON",
     "closed": true
-  },
-  {
-    "day": "TUE-THU",
-    "open": "11:00AM",
-    "close": "8:30PM"
-  },
-  {
-    "day": "FRI-SAT",
-    "open": "11:00AM",
-    "close": "7:00PM"
   }
 ]
