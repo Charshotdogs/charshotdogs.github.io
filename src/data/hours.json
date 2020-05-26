@@ -3,7 +3,7 @@
     "day": "TUES-SUN",
     "open": "11:00AM",
     "close": "7:00PM"
-  }
+  },
   {
     "day": "MON",
     "closed": true
