@@ -1,6 +1,9 @@
 [
+  {"day": "THURS-SAT",
+   "open": "11:00AM",
+   "close": "7:00PM"
   {
-    "day": "TUES-SUN",
+    "day": "TUES-WED",
     "open": "11:00AM",
     "close": "6:00PM"
   },
