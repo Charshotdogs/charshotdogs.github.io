@@ -3,245 +3,245 @@
     "category": "hotdog",
     "name": "Regular Dog",
     "desc": "Everything",
-    "price": "$4.75"
+    
   },
   {
     "category": "hotdog",
     "name": "Cheese Dog",
     "desc": "Everything with shredded cheddar cheese",
-    "price": "$5.25"
+    
   },
   {
     "category": "hotdog",
     "name": "Kraut Dog",
     "desc": "Everything with sauerkraut",
-    "price": "$5.25"
+  
   },
   {
     "category": "hotdog",
     "name": "Chili Cheese Dog",
     "desc": "Chili, cheese, and diced onion",
-    "price": "$5.75"
+    
   },
   {
     "category": "hotdog",
     "name": "Cajun Hot Link",
     "desc": "Spicy cajun hot link with everything on it",
-    "price": "$5.75"
+    
   },
   {
     "category": "hotdog",
     "name": "Polish Dog",
     "desc": "Polish sausage with everything on it",
-    "price": "$5.75"
+    
   },
   {
     "category": "hotdog",
     "name": "Chicken Sausage",
     "desc": "Chicken sausage with everything on it",
-    "price": "$5.75"
+    
   },
   {
     "category": "hotdog",
     "name": "Chicago Style",
     "desc": "Mustard, relish, onion, tomato, jalapeños, pickles, celery salt",
-    "price": "$5.75"
+    
   },
   {
     "category": "hotdog",
     "name": "California Coney",
     "desc": "Chili, cheese, diced onion, pickler, spicy pickled jalapeños and carrots",
-    "price": "$5.75"
+    
   },
   {
     "category": "hotdog",
     "name": "Cowboy Dog",
     "desc": "Bacon pieces, barbecue sauce, shredded cheeese",
-    "price": "$5.75"
+    
   },
   {
     "category": "hotdog",
     "name": "Hawaiian Dog",
     "desc": "Pineapple, garlic, relish, ranch, diced onion",
-    "price": "$5.75"
+    
   },
   {
     "category": "hotdog",
     "name": "Veggie Dog",
     "desc": "Italian or apple sage veggie sausage with everything",
-    "price": "$6.25"
+    
   },
   {
     "category": "hotdog",
     "name": "Chili Boat",
     "desc": "Chili, shredded cheese, diced onion, fritos, and chopped hotdog",
-    "price": "$6.25"
+    
   },
   {
     "category": "burger",
     "name": "Hamburger",
     "desc": "Everything",
-    "price": "$7.25"
+    
   },
   {
    "category": "burger",
     "name": "Cheeseburger",
     "desc": "Everything with sliced cheese",
-    "price": "$8.25"
+    
   },
   {
     "category": "burger",
     "name": "Bacon Cheeseburger",
     "desc": "Everything, bacon, with cheese",
-    "price": "$9.25"
+    
   },
   {
     "category": "burger",
     "name": "Hawaiian Burger",
     "desc": "Teriyaki, grilled onion, grilled pineapple, pepper jack cheese",
-    "price": "$9.25"
+    
   },
   {
     "category": "burger",
     "name": "Buffalo Blue Cheeseburger",
     "desc": "Grilled onions, grilled jalapenos, blue cheese, buffalo sauce",
-    "price": "$9.25"
+    
   },
   {
     "category": "burger",
     "name": "Western Burger",
     "desc": "Bacon, onion rings, barbecue sauce, cheese, optional jalapeños",
-    "price": "$9.25"
+    
   },
   {
     "category": "burger",
     "name": "Chili Burger",
     "desc": "Chili, shredded cheddar cheese, diced onion",
-    "price": "$9.25"
+    
   },
   {
     "category": "burger",
     "name": "Mushroom Swiss",
     "desc": "Sauteed mushrooms, lettuce, onion, tomato, and garlic aioli",
-    "price": "$9.25"
+    
   },
   {
     "category": "burger",
     "name": "Patty Melt",
     "desc": "Rye bread, grilled onions, swiss cheese",
-    "price": "$8.25"
+    
   },
   {
     "category": "burger",
     "name": "Double Cheeseburger",
     "desc": "Everything with 2 patties and cheese",
-    "price": "$10.50"
+    
   },
   {
     "category": "burger",
     "name": "Double Bacon Cheeseburger",
     "desc": "Everything, bacon, two patties, and cheese",
-    "price": "$12.50"
+    
   },
   {
     "category": "sandwich",
     "name": "Grilled Cheese",
     "desc": "Sliced cheddar cheese on sourdough bread",
-    "price": "$3.95"
+    
   },
   {
     "category": "sandwich",
     "name": "Grilled Ham & Cheese",
     "desc": "Sliced cheddar cheese with grilled ham on sourdough bread",
-    "price": "$5.95"
+    
   },
   {
     "category": "sandwich",
     "name": "BLT",
     "desc": "Bacon, lettuce, tomato, and mayo on sourdough bread",
-    "price": "$5.95"
+    
   },
   {
     "category": "sandwich",
     "name": "BLTA",
     "desc": "Bacon, lettuce, tomato, avocado, and mayo on sourdough bread",
-    "price": "$6.95"
+    
   },
   {
     "category": "side",
     "name": "Fries",
-    "price": "$3.25/$1.75"
+    
   },
   {
     "category": "side",
     "name": "Sweet Potato Fries",
-    "price": "$4.25/$2.25"
+  
   },
   {
     "category": "side",
     "name": "Garlic Fries",
-    "price": "$4.25/$2.25"
+    
   },
   {
     "category": "side",
     "name": "Onion Rings",
-    "price": "$5.00"
+    
   },
   {
     "category": "side",
     "name": "Chili Cheese Fries",
-    "price": "$6.00"
+    
   },
   {
     "category": "side",
     "name": "Jalapeño Poppers",
-    "price": "$4.00"
+    
   },
   {
     "category": "side",
     "name": "Fried Zucchini",
-    "price": "$4.00"
+    
   },
   {
     "category": "side",
     "name": "Mozzarella Sticks",
-    "price": "$4.00"
+    
   },
   {
     "category": "side",
     "name": "Chili",
-    "price": "$4.75/$2.75"
+    
   },
   {
     "category": "side",
     "name": "Chips",
-    "price": "$1.25"
+    
   },
   {
     "category": "side",
     "name": "Candy",
-    "price": "$1.00"
+    
   },
   {
   },
   {
     "category": "side",
     "name": "Apple Juice",
-    "price": "$1.00"
+    
   },
   {
     "category": "side",
     "name": "Fountain Drink",
-    "price": "$2.00"
+    
   },
   {
     "category": "side",
     "name": "Iced Tea",
-    "price": "$2.00"
+    
   },
   {
     "category": "side",
     "name": "Bottled Water",
-    "price": "$2.00"
+    
   }
 ]
