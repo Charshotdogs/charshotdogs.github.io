@@ -2,244 +2,201 @@
   {
     "category": "hotdog",
     "name": "Regular Dog",
-    "desc": "Everything",
-    
+    "desc": "Everything"
   },
   {
     "category": "hotdog",
     "name": "Cheese Dog",
-    "desc": "Everything with shredded cheddar cheese",
-    
+    "desc": "Everything with shredded cheddar cheese"
   },
   {
     "category": "hotdog",
     "name": "Kraut Dog",
-    "desc": "Everything with sauerkraut",
-  
+    "desc": "Everything with sauerkraut"
   },
   {
     "category": "hotdog",
     "name": "Chili Cheese Dog",
-    "desc": "Chili, cheese, and diced onion",
-    
+    "desc": "Chili, cheese, and diced onion"
   },
   {
     "category": "hotdog",
     "name": "Cajun Hot Link",
-    "desc": "Spicy cajun hot link with everything on it",
-    
+    "desc": "Spicy cajun hot link with everything on it"
   },
   {
     "category": "hotdog",
     "name": "Polish Dog",
-    "desc": "Polish sausage with everything on it",
-    
+    "desc": "Polish sausage with everything on it"
   },
   {
     "category": "hotdog",
     "name": "Chicken Sausage",
-    "desc": "Chicken sausage with everything on it",
-    
+    "desc": "Chicken sausage with everything on it"
   },
   {
     "category": "hotdog",
     "name": "Chicago Style",
-    "desc": "Mustard, relish, onion, tomato, jalapeños, pickles, celery salt",
-    
+    "desc": "Mustard, relish, onion, tomato, jalapeños, pickles, celery salt"
   },
   {
     "category": "hotdog",
     "name": "California Coney",
-    "desc": "Chili, cheese, diced onion, pickler, spicy pickled jalapeños and carrots",
-    
+    "desc": "Chili, cheese, diced onion, pickler, spicy pickled jalapeños and carrots"
   },
   {
     "category": "hotdog",
     "name": "Cowboy Dog",
-    "desc": "Bacon pieces, barbecue sauce, shredded cheeese",
-    
+    "desc": "Bacon pieces, barbecue sauce, shredded cheeese"
   },
   {
     "category": "hotdog",
     "name": "Hawaiian Dog",
-    "desc": "Pineapple, garlic, relish, ranch, diced onion",
-    
+    "desc": "Pineapple, garlic, relish, ranch, diced onion"
   },
   {
     "category": "hotdog",
     "name": "Veggie Dog",
-    "desc": "Italian or apple sage veggie sausage with everything",
-    
+    "desc": "Italian or apple sage veggie sausage with everything"
   },
   {
     "category": "hotdog",
     "name": "Chili Boat",
-    "desc": "Chili, shredded cheese, diced onion, fritos, and chopped hotdog",
-    
+    "desc": "Chili, shredded cheese, diced onion, fritos, and chopped hotdog"
   },
   {
     "category": "burger",
     "name": "Hamburger",
-    "desc": "Everything",
-    
+    "desc": "Everything"
   },
   {
    "category": "burger",
     "name": "Cheeseburger",
-    "desc": "Everything with sliced cheese",
-    
+    "desc": "Everything with sliced cheese"
   },
   {
     "category": "burger",
     "name": "Bacon Cheeseburger",
-    "desc": "Everything, bacon, with cheese",
-    
+    "desc": "Everything, bacon, with cheese"
   },
   {
     "category": "burger",
     "name": "Hawaiian Burger",
-    "desc": "Teriyaki, grilled onion, grilled pineapple, pepper jack cheese",
-    
+    "desc": "Teriyaki, grilled onion, grilled pineapple, pepper jack cheese"
   },
   {
     "category": "burger",
     "name": "Buffalo Blue Cheeseburger",
-    "desc": "Grilled onions, grilled jalapenos, blue cheese, buffalo sauce",
-    
+    "desc": "Grilled onions, grilled jalapenos, blue cheese, buffalo sauce"
   },
   {
     "category": "burger",
     "name": "Western Burger",
-    "desc": "Bacon, onion rings, barbecue sauce, cheese, optional jalapeños",
-    
+    "desc": "Bacon, onion rings, barbecue sauce, cheese, optional jalapeños"
   },
   {
     "category": "burger",
     "name": "Chili Burger",
-    "desc": "Chili, shredded cheddar cheese, diced onion",
-    
+    "desc": "Chili, shredded cheddar cheese, diced onion"
   },
   {
     "category": "burger",
     "name": "Mushroom Swiss",
-    "desc": "Sauteed mushrooms, lettuce, onion, tomato, and garlic aioli",
-    
+    "desc": "Sauteed mushrooms, lettuce, onion, tomato, and garlic aioli"
   },
   {
     "category": "burger",
     "name": "Patty Melt",
-    "desc": "Rye bread, grilled onions, swiss cheese",
-    
+    "desc": "Rye bread, grilled onions, swiss cheese"
   },
   {
     "category": "burger",
     "name": "Double Cheeseburger",
-    "desc": "Everything with 2 patties and cheese",
-    
+    "desc": "Everything with 2 patties and cheese"
   },
   {
     "category": "burger",
     "name": "Double Bacon Cheeseburger",
-    "desc": "Everything, bacon, two patties, and cheese",
-    
+    "desc": "Everything, bacon, two patties, and cheese"
   },
   {
     "category": "sandwich",
     "name": "Grilled Cheese",
-    "desc": "Sliced cheddar cheese on sourdough bread",
-    
+    "desc": "Sliced cheddar cheese on sourdough bread"
   },
   {
     "category": "sandwich",
     "name": "Grilled Ham & Cheese",
-    "desc": "Sliced cheddar cheese with grilled ham on sourdough bread",
-    
+    "desc": "Sliced cheddar cheese with grilled ham on sourdough bread"
   },
   {
     "category": "sandwich",
     "name": "BLT",
-    "desc": "Bacon, lettuce, tomato, and mayo on sourdough bread",
-    
+    "desc": "Bacon, lettuce, tomato, and mayo on sourdough bread"
   },
   {
     "category": "sandwich",
     "name": "BLTA",
-    "desc": "Bacon, lettuce, tomato, avocado, and mayo on sourdough bread",
-    
+    "desc": "Bacon, lettuce, tomato, avocado, and mayo on sourdough bread"
   },
   {
     "category": "side",
-    "name": "Fries",
-    
+    "name": "Fries"
   },
   {
     "category": "side",
-    "name": "Sweet Potato Fries",
-  
+    "name": "Sweet Potato Fries"
   },
   {
     "category": "side",
-    "name": "Garlic Fries",
-    
+    "name": "Garlic Fries"
   },
   {
     "category": "side",
-    "name": "Onion Rings",
-    
+    "name": "Onion Rings"
   },
   {
     "category": "side",
-    "name": "Chili Cheese Fries",
-    
+    "name": "Chili Cheese Fries"
   },
   {
     "category": "side",
-    "name": "Jalapeño Poppers",
-    
+    "name": "Jalapeño Poppers"
   },
   {
     "category": "side",
-    "name": "Fried Zucchini",
-    
+    "name": "Fried Zucchini"
   },
   {
     "category": "side",
-    "name": "Mozzarella Sticks",
-    
+    "name": "Mozzarella Sticks"
   },
   {
     "category": "side",
-    "name": "Chili",
-    
+    "name": "Chili"
   },
   {
     "category": "side",
-    "name": "Chips",
-    
+    "name": "Chips"
   },
   {
     "category": "side",
-    "name": "Candy",
-    
+    "name": "Candy"
   },
   {
     "category": "side",
-    "name": "Apple Juice",
-    
+    "name": "Apple Juice"
   },
   {
     "category": "side",
-    "name": "Fountain Drink",
-    
+    "name": "Fountain Drink"
   },
   {
     "category": "side",
-    "name": "Iced Tea",
-    
+    "name": "Iced Tea"
   },
   {
     "category": "side",
-    "name": "Bottled Water",
-    
+    "name": "Bottled Water"
   }
 ]
