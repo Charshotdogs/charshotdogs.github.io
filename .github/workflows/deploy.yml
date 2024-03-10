@@ -15,7 +15,7 @@ jobs:
           npm install
           git config --global user.email "kimberly.casarino@sbcglobal.net"
           git config --global user.name "Charshotdogs"
-          git remote set-url origin "https://${{ secrets.ACCESS_TOKEN }}@github.com/Charshotdogs/charshotdogs.github.io.git"
+          git remote set-url origin "https://x-access-token:${{ secrets.ACCESS_TOKEN }}@github.com/Charshotdogs/charshotdogs.github.io.git"
           npm run deploy
 #
 #      - name: Deploy 🚀
