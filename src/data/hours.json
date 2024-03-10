@@ -1,15 +1,26 @@
 [
-  {"day": "THURS-SAT",
-   "open": "11:00AM",
-   "close": "7:00PM"
-  },
-  {
-    "day": "TUES-WED",
-    "open": "11:00AM",
-    "close": "6:00PM"
-  },
   {
     "day": "MON",
     "closed": true
-  }
+  },
+  {
+    "day": "TUES-THURS",
+    "open": "11:00AM",
+    "close": "7:00PM"
+  },
+  {
+    "day": "FRI",
+    "open": "11:00AM",
+    "close": "8:00PM"
+   },
+   {
+     "day": "SAT",
+     "open": "11:00AM",
+     "close": "7:00PM"
+   },
+   {
+     "day": "SUN",
+     "open": "11:00AM",
+     "close": "5:00PM"
+   }
 ]
