@@ -4,8 +4,10 @@ import ColSection3 from '../../components/col-3/col-3'
 import Announcements from '../../components/landing-info/announcements/announcements'
 import Hours from '../../components/landing-info/hours/hours'
 import Contact from '../../components/landing-info/contact/contact'
+import announcementsList from '../../data/announcements.json'
 
-const ColSections = [
+
+const ColSections = announcementsList.length ? [
 	{
 		name: 'WHAT\'S NEW',
 		body: <Announcements/>
@@ -18,7 +20,16 @@ const ColSections = [
 		name: "CONTACT",
 		body: <Contact/>
 	}
-]
+] : [
+	{
+		name: 'HOURS',
+		body: <Hours/>
+	},
+	{
+		name: "CONTACT",
+		body: <Contact/>
+	}	
+];
 
 const LandingPage = props => (
 		<div id="landing">
