@@ -5,7 +5,12 @@
     "close": "4PM"
   },
   {
-    "day": "TUES-SAT",
+    "day": "TUES-WEDS",
+    "open": "11AM",
+    "close": "7PM"
+  },
+  {
+    "day": "THURS-SAT",
     "open": "11AM",
     "close": "8PM"
   },
