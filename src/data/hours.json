@@ -5,14 +5,14 @@
     "close": "4PM"
   },
   {
-    "day": "TUES-WEDS",
+    "day": "TUES-THURS",
     "open": "11AM",
     "close": "7PM"
   },
   {
-    "day": "THURS-SAT",
+    "day": "FRI-SAT",
     "open": "11AM",
-    "close": "7PM"
+    "close": "8PM"
   },
    {
      "day": "SUN",
