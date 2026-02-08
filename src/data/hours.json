@@ -1,8 +1,7 @@
 [
   {
     "day": "MON",
-    "open": "11AM",
-    "close": "4PM"
+    "closed": true
   },
   {
     "day": "TUES-THURS",
