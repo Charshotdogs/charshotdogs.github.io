@@ -6,16 +6,16 @@
   {
     "day": "TUES-THURS",
     "open": "11AM",
-    "close": "7PM"
+    "close": "8PM"
   },
   {
     "day": "FRI-SAT",
     "open": "11AM",
-    "close": "8PM"
+    "close": "9PM"
   },
    {
      "day": "SUN",
      "open": "11AM",
-     "close": "4PM"
+     "close": "6PM"
    }
 ]
